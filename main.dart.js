@@ -48172,7 +48172,7 @@ lJ:function(a){var s=0,r=P.ah(t.z),q=this,p
 var $async$lJ=P.ac(function(b,c){if(b===1)return P.ae(c,r)
 while(true)switch(s){case 0:p=q.c
 s=2
-return P.as(X.RM("https://faithlesshijabi.github.io/Podcast/feed.xml"),$async$lJ)
+return P.as(X.RM("feed.xml"),$async$lJ)
 case 2:p.sp(0,c)
 return P.af(null,r)}})
 return P.ag($async$lJ,r)},
@@ -48224,7 +48224,7 @@ T.OI.prototype={
 $1:function(a){return new B.kW(this.a,null)},
 $S:326}
 T.OE.prototype={
-$0:function(){T.K0("feed:https://faithlesshijabi.github.io/Podcast/feed.xml")},
+$0:function(){T.K0("feed:feed.xml")},
 $C:"$0",
 $R:0,
 $S:0}
