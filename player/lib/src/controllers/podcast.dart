@@ -12,7 +12,7 @@ class PodcastController {
   final _playingEpisode = ValueNotifier<Episode>(null);
 
   void load() async {
-    var podcast = await Podcast.loadFeed(url: kPodcastFeed);
+    var podcast = await Podcast.loadFeed(url: 'feed.xml');
     _podcast.value = podcast;
   }
 
