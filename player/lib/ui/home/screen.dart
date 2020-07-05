@@ -59,7 +59,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: false,
-        title: Text('Creative Engineering'),
+        title: Text('Life after Islam'),
         actions: [
           IconButton(
             icon: Icon(Icons.rss_feed),
