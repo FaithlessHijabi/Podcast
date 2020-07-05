@@ -48224,7 +48224,7 @@ T.OI.prototype={
 $1:function(a){return new B.kW(this.a,null)},
 $S:326}
 T.OE.prototype={
-$0:function(){T.K0("feed:feed.xml")},
+$0:function(){T.K0("feed:https://faithlesshijabi.github.io/Podcast/feed.xml")},
 $C:"$0",
 $R:0,
 $S:0}

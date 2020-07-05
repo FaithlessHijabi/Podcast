@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "img/icon.jpg": "c81a02cb4f15e4040a9e34a76cda4035",
-"main.dart.js": "7ed3bdb7dd1ce201a58a99c190891b39",
+"main.dart.js": "0ab69390be70bf105aa0ae11a3238439",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "feed.xml": "859cb97f797936b5c043c8d18b35d710",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
