@@ -1,63 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
+    <title>Faithless Hijabi - Life after Islam</title>
+    <googleplay:author>Zara Kay</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
+    <rawvoice:location>Australia</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+    <author>Zara Kay</author>
+    <itunes:author>Zara Kay</itunes:author>
+    <itunes:email>info@faithlesshijabi.org</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
+      <url>https://faithlesshijabi.github.io/Podcast/img/icon.jpg</url>
+      <title>Faithless Hijabi - Life after Islam</title>
+      <link>https://faithlesshijabi.github.io/Podcasr/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:name>Zara Kay</itunes:name>
+      <itunes:email>info@faithlesshijabi.org</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <itunes:keywords>islam,hijab,exmuslim</itunes:keywords>
+    <copyright>Faithless Hijabi</copyright>
+    <description>Exploring life after Islam</description>
+    <googleplay:image href="https://faithlesshijabi.github.io/Podcast/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <link>https://faithlesshijabi.github.io/Podcast/feed.xml</link>
+    <itunes:image href="https://faithlesshijabi.github.io/Podcast/img/icon.jpg" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
+      <author>Zara Kay</author>
+      <itunes:author>Zara Kay</itunes:author>
+      <title>Life After Islam with Zahraa (SeedsOfDoubt3)</title>
+      <pubDate>Mon, 25 May 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara%20Kay%20-%20Life%20After%20Islam%20With%20Zahraa%20Seedsofdoubt%203.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>1:57:55</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Norbert Kozsir - @norbertkozsir
+Zahraa is a 27yo French Canadian Lebanese, that escaped both an abusive family and marriage and enforced religion and is now living with her son and kicking ass. 
 
-https://twitter.com/norbertkozsir
+First of our series, Life After Islam is a series dedicated to speaking with ExMuslims about their experiences, their views, advice to younger ExMuslims and just having a drink while we engage in insightful conversations with our growing community of ExMuslims. 
 
-https://github.com/norbert515
+Follow her on twitter: https://twitter.com/SeedsOfDoubt3
 
+Support my passion and drive by becoming a patron, patreon account: https://www.patreon.com/zarakay
 
-Rody Davis - @rodydavis
+Follow me on twitter: https://twitter.com/zarakayk
+Facebook: https://www.facebook.com/zara.kayk
+Instagram: https://www.instagram.com/zarakayk
 
-https://twitter.com/rodydavis
+Faithless Hijabi: https://www.facebook.com/faithlesshijabi
+.
+..
 
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
+#ExMuslim #LifeAfterIslam #Islam
         </description>
     </item>
   </channel>
