@@ -7,7 +7,7 @@ const RESOURCES = {
 "img/icon.jpg": "c81a02cb4f15e4040a9e34a76cda4035",
 "main.dart.js": "19f7eb006f4e77cb7fcf1110b297201b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"feed.xml": "6266210378ed7f7d871bba44a406f6a2",
+"feed.xml": "3b3c9a0158ebe41863e51bff40fba19d",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
 "audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Ghada%20Alkhars.mp3": "f919657e754c735c91f6b6a876907472",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20Embracing%20losing%20your%20faith.mp3": "86facdde6d8c8c7bb225736bf32af93f",
