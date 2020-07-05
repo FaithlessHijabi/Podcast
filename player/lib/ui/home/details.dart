@@ -35,21 +35,6 @@ class EpisodeDetails extends StatelessWidget {
                 shrinkWrap: true,
                 onTapLink: (val) => launch(val),
               ),
-              Center(
-                child: Wrap(
-                  children: <Widget>[
-                    Container(
-                      width: 300,
-                      padding: const EdgeInsets.all(8.0),
-                      child: GestureDetector(
-                        onTap: () => launch(kSpotifyLink),
-                        child: Image.network(
-                            'https://faithlesshijabi.github.io/Podcast/img/spotify.png'),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
             ],
           ),
         ),
