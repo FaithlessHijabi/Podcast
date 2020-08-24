@@ -11,9 +11,9 @@
     <itunes:email>info@faithlesshijabi.org</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://faithlesshijabi.github.io/Podcast/img/icon.jpg</url>
+      <url>https://podcast.faithlesshijabi.org/Podcast/img/icon.jpg</url>
       <title>Faithless Hijabi - Life after Islam</title>
-      <link>https://faithlesshijabi.github.io/Podcast/</link>
+      <link>https://podcast.faithlesshijabi.org/Podcast/</link>
     </image>
     <itunes:owner>
       <itunes:name>Zara Kay</itunes:name>
@@ -22,18 +22,18 @@
     <itunes:keywords>islam,hijab,exmuslim</itunes:keywords>
     <copyright>Faithless Hijabi</copyright>
     <description>Exploring life after Islam</description>
-    <googleplay:image href="https://faithlesshijabi.github.io/Podcast/img/icon.jpg" />
+    <googleplay:image href="https://podcast.faithlesshijabi.org/Podcast/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://faithlesshijabi.github.io/Podcast/feed.xml</link>
-    <itunes:image href="https://faithlesshijabi.github.io/Podcast/img/icon.jpg" />
+    <link>https://podcast.faithlesshijabi.org/Podcast/feed.xml</link>
+    <itunes:image href="https://podcast.faithlesshijabi.org/Podcast/img/icon.jpg" />
     <item>
       <author>Zara Kay</author>
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Zahraa (SeedsOfDoubt3)</title>
       <pubDate>Mon, 25 May 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara Kay - Life After Islam with Zahraa (SeedsOfDoubt3).mp3" type="audio/mpeg" length="82927565" />
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Zahraa (SeedsOfDoubt3).mp3" type="audio/mpeg" length="82927565" />
       <itunes:duration>1:57:55</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -64,7 +64,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam #1: Embracing losing your faith</title>
       <pubDate>Fri, 27 Dec 2019 13:00:00 GMT</pubDate>
-      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara Kay - Life after Islam Embracing losing your faith.mp3" type="audio/mpeg" length="4891006" />
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam Embracing losing your faith.mp3" type="audio/mpeg" length="4891006" />
       <itunes:duration>08:09</itunes:duration>
       <guid isPermaLink="false">cepod02</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -95,7 +95,7 @@ Support my passion and drive by becoming a patron, patreon account: https://www.
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Little Devil</title>
       <pubDate>Tue, 28 May 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara Kay - Life After Islam with Little Devil.mp3" type="audio/mpeg" length="40812486" />
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Little Devil.mp3" type="audio/mpeg" length="40812486" />
       <itunes:duration>1:10:52</itunes:duration>
       <guid isPermaLink="false">cepod03</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -126,7 +126,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Ghada Alkhars</title>
       <pubDate>Fri, 31 May 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara Kay - Life After Islam with Ghada Alkhars.mp3" type="audio/mpeg" length="83938432" />
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Ghada Alkhars.mp3" type="audio/mpeg" length="83938432" />
       <itunes:duration>2:09:58</itunes:duration>
       <guid isPermaLink="false">cepod04</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -157,7 +157,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Khulud</title>
       <pubDate>Tue, 09 Jun 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara Kay - Life After Islam with Khulud.mp3" type="audio/mpeg" length="74806025" />
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Khulud.mp3" type="audio/mpeg" length="74806025" />
       <itunes:duration>2:06:34</itunes:duration>
       <guid isPermaLink="false">cepod05</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -188,7 +188,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam with Omayma</title>
       <pubDate>Sun, 14 Jun 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara Kay - Life after Islam with Omayma.mp3" type="audio/mpeg" length="71944820" />
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Omayma.mp3" type="audio/mpeg" length="71944820" />
       <itunes:duration>2:10:15</itunes:duration>
       <guid isPermaLink="false">cepod06</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -219,7 +219,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam with Hassan, Somali-Kenyan</title>
       <pubDate>Tue, 30 Jun 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://faithlesshijabi.github.io/Podcast/audio/Zara Kay - Life after Islam with Hassan, Somali-Kenyan.mp3" type="audio/mpeg" length="28101954" />
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Hassan, Somali-Kenyan.mp3" type="audio/mpeg" length="28101954" />
       <itunes:duration>58:32</itunes:duration>
       <guid isPermaLink="false">cepod07</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -229,6 +229,136 @@ Hassan is from Kenya and comes from the Somali community, Hassan has helped many
 We will talk about the culture, the inherent misogyny you're raised with, and how Hassan has managed to find his way out from a toxic community while taking care of his family ❤️
 
  
+Life After Islam is a series dedicated to speaking with ExMuslims about their experiences, their views, advice to younger ExMuslims and just having a drink while we engage in insightful conversations with our growing community of ExMuslims.
+
+Support my passion and drive by becoming a patron, patreon account: https://www.patreon.com/zarakay
+
+Follow me on 
+Youtube: https://www.youtube.com/channel/UC3HZj_ebQWk90iaczhSvuCA
+Twitter: https://twitter.com/zarakayk
+Facebook: https://www.facebook.com/zara.kayk
+Instagram: https://www.instagram.com/zarakayk
+
+Faithless Hijabi: https://www.facebook.com/faithlesshijabi
+.
+..
+
+#ExMuslim #LifeAfterIslam #Islam
+        </description>
+    </item>
+    <item>
+      <author>Zara Kay</author>
+      <itunes:author>Zara Kay</itunes:author>
+      <title>Life after Islam with Seyyid</title>
+      <pubDate>Sun, 12 Jul 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Seyyid.mp3" type="audio/mpeg" length="51982552" />
+      <itunes:duration>1:33:12</itunes:duration>
+      <guid isPermaLink="false">cepod08</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Seyyid was born and raised in Canada and comes from a Guyanese background, we'll be discussing his journey from Religion to reason, the challenges that questioning Islam brought about in his relationships with his partner and family members and how they raise their kids in secular environment despite being religion
+
+You can find Seyyid on:
+https://www.facebook.com/seyyid.hanif
+https://instagram.com/seyyidhanif
+ 
+Life After Islam is a series dedicated to speaking with ExMuslims about their experiences, their views, advice to younger ExMuslims and just having a drink while we engage in insightful conversations with our growing community of ExMuslims.
+
+Support my passion and drive by becoming a patron, patreon account: https://www.patreon.com/zarakay
+
+Follow me on 
+Youtube: https://www.youtube.com/channel/UC3HZj_ebQWk90iaczhSvuCA
+Twitter: https://twitter.com/zarakayk
+Facebook: https://www.facebook.com/zara.kayk
+Instagram: https://www.instagram.com/zarakayk
+
+Faithless Hijabi: https://www.facebook.com/faithlesshijabi
+.
+..
+
+#ExMuslim #LifeAfterIslam #Islam
+        </description>
+    </item>
+    <item>
+      <author>Zara Kay</author>
+      <itunes:author>Zara Kay</itunes:author>
+      <title>Life after Islam with Jesse</title>
+      <pubDate>Sun, 26 Jul 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Jesse.mp3" type="audio/mpeg" length="52445328" />
+      <itunes:duration>1:30:00</itunes:duration>
+      <guid isPermaLink="false">cepod09</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Jesse was born and raised in the UK as Yusef and has recently changed his name to Jesse Clarke this year. Jesse is a survivor of an Islamic child-abduction from the West to the Middle East (Egypt) when he was 4 years old. He left Islam around the age of 21 after seeing both first-hand and through research the awful mistreatment of many people within the faith and because of the faith. He is a staunch advocate of free speech and wants to do all he can to help liberate people that feel trapped within Islam, as well as help to reform the religion.
+
+You can find Jesse on
+https://twitter.com/jesseclarke95
+
+Life After Islam is a series dedicated to speaking with ExMuslims about their experiences, their views, advice to younger ExMuslims and just having a drink while we engage in insightful conversations with our growing community of ExMuslims.
+
+Support my passion and drive by becoming a patron, patreon account: https://www.patreon.com/zarakay
+
+Follow me on 
+Youtube: https://www.youtube.com/channel/UC3HZj_ebQWk90iaczhSvuCA
+Twitter: https://twitter.com/zarakayk
+Facebook: https://www.facebook.com/zara.kayk
+Instagram: https://www.instagram.com/zarakayk
+
+Faithless Hijabi: https://www.facebook.com/faithlesshijabi
+.
+..
+
+#ExMuslim #LifeAfterIslam #Islam
+        </description>
+    </item>
+    <item>
+      <author>Zara Kay</author>
+      <itunes:author>Zara Kay</itunes:author>
+      <title>Life after Islam with Izzy</title>
+      <pubDate>Sun, 09 Aug 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Izzy.mp3" type="audio/mpeg" length="51224376" />
+      <itunes:duration>1:28:33</itunes:duration>
+      <guid isPermaLink="false">cepod10</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Izzy is a Jordanian woman, working and living in Jordan and a vocal activist for women rights in the Arab world. She is currently working as the executive director of a refugee program in Jordan focusing on the empowerment of young refugee girls through sports.
+
+You can find Izzy on
+https://www.facebook.com/israa.thiab.82
+
+Life After Islam is a series dedicated to speaking with ExMuslims about their experiences, their views, advice to younger ExMuslims and just having a drink while we engage in insightful conversations with our growing community of ExMuslims.
+
+Support my passion and drive by becoming a patron, patreon account: https://www.patreon.com/zarakay
+
+Follow me on 
+Youtube: https://www.youtube.com/channel/UC3HZj_ebQWk90iaczhSvuCA
+Twitter: https://twitter.com/zarakayk
+Facebook: https://www.facebook.com/zara.kayk
+Instagram: https://www.instagram.com/zarakayk
+
+Faithless Hijabi: https://www.facebook.com/faithlesshijabi
+.
+..
+
+#ExMuslim #LifeAfterIslam #Islam
+        </description>
+    </item>
+    <item>
+      <author>Zara Kay</author>
+      <itunes:author>Zara Kay</itunes:author>
+      <title>Zara Kay - Life after Islam with Ali (@leavingislam)</title>
+      <pubDate>Sun, 16 Aug 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Ali (@leavingislam).mp3" type="audio/mpeg" length="55103540" />
+      <itunes:duration>1:34:10</itunes:duration>
+      <guid isPermaLink="false">cepod11</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Ali of @LeavingIslam is an atheist Palestinian-Canadian writer based in Toronto. He grew up a Sunni Muslim in the United Arab Emirates, and left Islam at 18 one year after moving to Canada. He created Leaving Islam to share his story and connect with other ex-Muslims, as well as with doubting Muslims considering leaving their faith.
+
+You can find Ali on: 
+https://instagram.com/leavingislam
+https://twitter.com/Leaving_Islam
+
 Life After Islam is a series dedicated to speaking with ExMuslims about their experiences, their views, advice to younger ExMuslims and just having a drink while we engage in insightful conversations with our growing community of ExMuslims.
 
 Support my passion and drive by becoming a patron, patreon account: https://www.patreon.com/zarakay
