@@ -3,30 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
-"img/icon.jpg": "c81a02cb4f15e4040a9e34a76cda4035",
-"main.dart.js": "0ab69390be70bf105aa0ae11a3238439",
+  "feed.xml": "b56e65506b6ff3c22ac3ec0a498f9bf4",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "favicon.png": "21dbc710b1c160da8d8d572fd108a37d",
-"CNAME": "12565d68535b4fff98bb730a5f758142",
-"feed.xml": "859cb97f797936b5c043c8d18b35d710",
-"manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
-"audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Ghada%20Alkhars.mp3": "f919657e754c735c91f6b6a876907472",
+"img/icon.jpg": "c81a02cb4f15e4040a9e34a76cda4035",
+"img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20Embracing%20losing%20your%20faith.mp3": "86facdde6d8c8c7bb225736bf32af93f",
-"audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Hassan,%20Somali-Kenyan.mp3": "336e028584858e50c0bf58914ddd4eb6",
+"audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Zahraa%20(SeedsOfDoubt3).mp3": "2b070a09053b4579600dafec4d22527c",
+"audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Ghada%20Alkhars.mp3": "f919657e754c735c91f6b6a876907472",
 "audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Little%20Devil.mp3": "7b8982a9039a729c5a3a56281d02905a",
 "audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Khulud.mp3": "fb640c294c770da2dd13198374b0314c",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Omayma.mp3": "9466be1f46eb8ebf0e3604e268ff6f04",
-"audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Zahraa%20(SeedsOfDoubt3).mp3": "2b070a09053b4579600dafec4d22527c",
-"assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
-"assets/NOTICES": "2d8cb18d5545aca1fc9776937b523eae",
+"audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Hassan,%20Somali-Kenyan.mp3": "336e028584858e50c0bf58914ddd4eb6",
+"main.dart.js": "dfa4906605f331a38afca8ac63f3cc79",
+"index.html": "1e388da931a9c99dee69aab8c723accd",
+"/": "1e388da931a9c99dee69aab8c723accd",
+"manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
+"CNAME": "12565d68535b4fff98bb730a5f758142",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/AssetManifest.json": "0d266ffbe90dae02458487c9d33b7373",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"index.html": "1e388da931a9c99dee69aab8c723accd",
-"/": "1e388da931a9c99dee69aab8c723accd"
+"assets/NOTICES": "fb5e4f1382cf8b579f8c08bba9c77115"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -43,8 +43,8 @@ const CORE = [
 self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
-      // Provide a no-cache param to ensure the latest version is downloaded.
-      return cache.addAll(CORE.map((value) => new Request(value, {'cache': 'no-cache'})));
+      return cache.addAll(
+        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
     })
   );
 });
@@ -117,7 +117,7 @@ self.addEventListener("fetch", (event) => {
   if (event.request.url == origin || event.request.url.startsWith(origin + '/#')) {
     key = '/';
   }
-  // If the URL is not the the RESOURCE list, skip the cache.
+  // If the URL is not the RESOURCE list, skip the cache.
   if (!RESOURCES[key]) {
     return event.respondWith(fetch(event.request));
   }
@@ -127,7 +127,7 @@ self.addEventListener("fetch", (event) => {
         // Either respond with the cached resource, or perform a fetch and
         // lazily populate the cache. Ensure the resources are not cached
         // by the browser for longer than the service worker expects.
-        var modifiedRequest = new Request(event.request, {'cache': 'no-cache'});
+        var modifiedRequest = new Request(event.request, {'cache': 'reload'});
         return response || fetch(modifiedRequest).then((response) => {
           cache.put(event.request, response.clone());
           return response;
@@ -140,11 +140,11 @@ self.addEventListener("fetch", (event) => {
 self.addEventListener('message', (event) => {
   // SkipWaiting can be used to immediately activate a waiting service worker.
   // This will also require a page refresh triggered by the main worker.
-  if (event.data == 'skipWaiting') {
+  if (event.data === 'skipWaiting') {
     return self.skipWaiting();
   }
 
-  if (event.message = 'downloadOffline') {
+  if (event.message === 'downloadOffline') {
     downloadOffline();
   }
 });
