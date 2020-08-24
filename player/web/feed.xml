@@ -11,9 +11,9 @@
     <itunes:email>info@faithlesshijabi.org</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://podcast.faithlesshijabi.org/Podcast/img/icon.jpg</url>
+      <url>https://podcast.faithlesshijabi.org/img/icon.jpg</url>
       <title>Faithless Hijabi - Life after Islam</title>
-      <link>https://podcast.faithlesshijabi.org/Podcast/</link>
+      <link>https://podcast.faithlesshijabi.org/</link>
     </image>
     <itunes:owner>
       <itunes:name>Zara Kay</itunes:name>
@@ -22,18 +22,18 @@
     <itunes:keywords>islam,hijab,exmuslim</itunes:keywords>
     <copyright>Faithless Hijabi</copyright>
     <description>Exploring life after Islam</description>
-    <googleplay:image href="https://podcast.faithlesshijabi.org/Podcast/img/icon.jpg" />
+    <googleplay:image href="https://podcast.faithlesshijabi.org/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://podcast.faithlesshijabi.org/Podcast/feed.xml</link>
-    <itunes:image href="https://podcast.faithlesshijabi.org/Podcast/img/icon.jpg" />
+    <link>https://podcast.faithlesshijabi.org/feed.xml</link>
+    <itunes:image href="https://podcast.faithlesshijabi.org/img/icon.jpg" />
     <item>
       <author>Zara Kay</author>
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Zahraa (SeedsOfDoubt3)</title>
       <pubDate>Mon, 25 May 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Zahraa (SeedsOfDoubt3).mp3" type="audio/mpeg" length="82927565" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life After Islam with Zahraa (SeedsOfDoubt3).mp3" type="audio/mpeg" length="82927565" />
       <itunes:duration>1:57:55</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -64,7 +64,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam #1: Embracing losing your faith</title>
       <pubDate>Fri, 27 Dec 2019 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam Embracing losing your faith.mp3" type="audio/mpeg" length="4891006" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life after Islam Embracing losing your faith.mp3" type="audio/mpeg" length="4891006" />
       <itunes:duration>08:09</itunes:duration>
       <guid isPermaLink="false">cepod02</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -95,7 +95,7 @@ Support my passion and drive by becoming a patron, patreon account: https://www.
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Little Devil</title>
       <pubDate>Tue, 28 May 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Little Devil.mp3" type="audio/mpeg" length="40812486" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life After Islam with Little Devil.mp3" type="audio/mpeg" length="40812486" />
       <itunes:duration>1:10:52</itunes:duration>
       <guid isPermaLink="false">cepod03</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -126,7 +126,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Ghada Alkhars</title>
       <pubDate>Fri, 31 May 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Ghada Alkhars.mp3" type="audio/mpeg" length="83938432" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life After Islam with Ghada Alkhars.mp3" type="audio/mpeg" length="83938432" />
       <itunes:duration>2:09:58</itunes:duration>
       <guid isPermaLink="false">cepod04</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -157,7 +157,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life After Islam with Khulud</title>
       <pubDate>Tue, 09 Jun 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life After Islam with Khulud.mp3" type="audio/mpeg" length="74806025" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life After Islam with Khulud.mp3" type="audio/mpeg" length="74806025" />
       <itunes:duration>2:06:34</itunes:duration>
       <guid isPermaLink="false">cepod05</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -188,7 +188,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam with Omayma</title>
       <pubDate>Sun, 14 Jun 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Omayma.mp3" type="audio/mpeg" length="71944820" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life after Islam with Omayma.mp3" type="audio/mpeg" length="71944820" />
       <itunes:duration>2:10:15</itunes:duration>
       <guid isPermaLink="false">cepod06</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -219,7 +219,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam with Hassan, Somali-Kenyan</title>
       <pubDate>Tue, 30 Jun 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Hassan, Somali-Kenyan.mp3" type="audio/mpeg" length="28101954" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life after Islam with Hassan, Somali-Kenyan.mp3" type="audio/mpeg" length="28101954" />
       <itunes:duration>58:32</itunes:duration>
       <guid isPermaLink="false">cepod07</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -251,7 +251,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam with Seyyid</title>
       <pubDate>Sun, 12 Jul 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Seyyid.mp3" type="audio/mpeg" length="51982552" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life after Islam with Seyyid.mp3" type="audio/mpeg" length="51982552" />
       <itunes:duration>1:33:12</itunes:duration>
       <guid isPermaLink="false">cepod08</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -284,7 +284,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam with Jesse</title>
       <pubDate>Sun, 26 Jul 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Jesse.mp3" type="audio/mpeg" length="52445328" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life after Islam with Jesse.mp3" type="audio/mpeg" length="52445328" />
       <itunes:duration>1:30:00</itunes:duration>
       <guid isPermaLink="false">cepod09</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -316,7 +316,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Life after Islam with Izzy</title>
       <pubDate>Sun, 09 Aug 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Izzy.mp3" type="audio/mpeg" length="51224376" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life after Islam with Izzy.mp3" type="audio/mpeg" length="51224376" />
       <itunes:duration>1:28:33</itunes:duration>
       <guid isPermaLink="false">cepod10</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -348,7 +348,7 @@ Faithless Hijabi: https://www.facebook.com/faithlesshijabi
       <itunes:author>Zara Kay</itunes:author>
       <title>Zara Kay - Life after Islam with Ali (@leavingislam)</title>
       <pubDate>Sun, 16 Aug 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://podcast.faithlesshijabi.org/Podcast/audio/Zara Kay - Life after Islam with Ali (@leavingislam).mp3" type="audio/mpeg" length="55103540" />
+      <enclosure url="https://podcast.faithlesshijabi.org/audio/Zara Kay - Life after Islam with Ali (@leavingislam).mp3" type="audio/mpeg" length="55103540" />
       <itunes:duration>1:34:10</itunes:duration>
       <guid isPermaLink="false">cepod11</guid>
       <itunes:explicit>no</itunes:explicit>
