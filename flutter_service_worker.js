@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "feed.xml": "ae98839aca8aa6e90313d410f8c57ed2",
+  "feed.xml": "a3524344d5126f55d678eb62c67d8325",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "favicon.png": "21dbc710b1c160da8d8d572fd108a37d",
-"img/icon.jpg": "c81a02cb4f15e4040a9e34a76cda4035",
+"img/icon.jpg": "5391f51340d10ca33334141bc1eb2142",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Jesse.mp3": "d903656ef27c19ef6610aa35d1fa071f",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Ali%20(@leavingislam).mp3": "4b5db3628985ff1a7b5a4da4df8825c1",
@@ -17,6 +17,7 @@ const RESOURCES = {
 "audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Ghada%20Alkhars.mp3": "f919657e754c735c91f6b6a876907472",
 "audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Little%20Devil.mp3": "7b8982a9039a729c5a3a56281d02905a",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Seyyid.mp3": "987680020db2f902b51cb75f6b664a4e",
+"audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Inas.mp3": "0e7add5a637cd25f27afbacdae241152",
 "audio/Zara%20Kay%20-%20Life%20After%20Islam%20with%20Khulud.mp3": "fb640c294c770da2dd13198374b0314c",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Omayma.mp3": "9466be1f46eb8ebf0e3604e268ff6f04",
 "audio/Zara%20Kay%20-%20Life%20after%20Islam%20with%20Hassan,%20Somali-Kenyan.mp3": "336e028584858e50c0bf58914ddd4eb6",
